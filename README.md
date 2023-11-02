@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/vanshkaushik2001/vanshkaushik2001/blob/main/gittt.gif)
 <h1 align="center">Hi 👋, I'm Vansh Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src=“https://github.com/vanshkaushik2001/vanshkaushik2001/blob/main/giphy.gif” width="200" align="right">
 
 - 🔭 I’m currently working on **Pitch Detection/Correction**
 
