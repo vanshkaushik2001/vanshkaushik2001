@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/u2hm8VXzgNmjowU28)]
+[![MasterHead](https://images.app.goo.gl/6aTriHxrTBFCKFnN6)]
 <h1 align="center">Hi 👋, I'm Vansh Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img width="400" src=“https://images.app.goo.gl/6aTriHxrTBFCKFnN6”>
